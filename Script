@@ -5,8 +5,10 @@
 // @description    ╳╳╳╳╳╳╳╳╳
 // @author         🐺FΣΓΔΠΨZΣΓΛΓ🐺
 // @match          *://moomoo.io/*
-// @match          *://*.moomoo.io/*
-// @require        https://code.jquery.com/jquery-3.3.1.min.js
+// @match          *://45.77.0.81/*
+// @match          *://dev.moomoo.io/*
+// @match          *://sandbox.moomoo.io/*
+// @require        https://code.jquery.com/jquery-3.3.1.slim.min.js
 // @icon           https://i.imgur.com/D5d7XwP.png
 // ==/UserScript==
 
