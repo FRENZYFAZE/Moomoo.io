@@ -1,2 +1,1 @@
-# Moomoo.io
-Scritp
+Click on <b>Script</b>
